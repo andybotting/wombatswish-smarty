@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# / or index.html is requested so call delegator.php with a special parameter
+RewriteRule ^$ delegator.php?url=index/&host=%{HTTP_HOST}&from=%{REQUEST_URI}index/ [QSA,L]
+RewriteRule ^index\.html$ delegator.php?url=index/&host=%{HTTP_HOST}&from=%{REQUEST_URI} [QSA,L]
+
+
+# then if we have a request which is neither file nor dir send the request to delegator.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) delegator.php?url=$1&host=%{HTTP_HOST}&from=%{REQUEST_URI} [QSA,L]

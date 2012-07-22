@@ -1,0 +1,281 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Trebuchet MS,Arial,Helvetica,sans-serif;
+}
+
+body {
+	background: #ffffff url('../img/line_bg_blue.gif')  50% 0; 
+	color: #333333;
+	text-align: center; /* be nice to IE */
+	/* background-attachment: fixed; */
+}
+
+a {
+	color: #5a9fce;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#wrapper {
+	background: #fff;
+	margin: 0 auto;
+	overflow:visible;
+	text-align: left; /* be nice to IE */
+	width: 778px;
+}
+
+#navbar {
+	background-color: #585590;
+	padding: 4px;
+	margin: 0;
+	text-align: center;
+}
+
+#navbar a {
+	padding: 4px 20px;
+	color:#fff;
+	text-decoration:none;
+}
+
+#navbar a:hover { 
+	color: #c4d1d9;
+	text-decoration:none;
+	padding: 4px 20px;
+}
+
+
+
+#welcome {
+	text-align:right;
+	background: #ffffff url(../img/gradient.png) no-repeat;
+	height:60px;
+}
+ 
+#welcometext {
+	padding:25px 5px 0 0;
+	margin-left:20px;
+	text-align:left;
+	color:#5a9fce;
+	font-size:160%;
+	width:90%;
+}
+
+#welcometext h1{
+	font-size:140%;
+	font-weight:normal;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color:#5a9fce;
+}
+ 
+#header {
+	height:80px;
+	padding: 5px 10px;
+	background-color: #fff;
+	margin-top: 0;
+	text-align:right;
+}
+
+#header a {
+	border-bottom:none;
+}
+
+#logo {
+	float:left; 
+	width:305px;
+}
+
+#slogan {
+	float:right;
+	margin-top: 65px; 
+	font-size: 80%;
+}
+
+
+
+
+#centercolumn, #maincolumn {
+	/* Parent Wrapper for inside boxes */
+	display:block;
+	float: left;
+	text-align:left;
+	margin-left: 10px;
+	padding-top: 0;
+	padding-right: 25px;
+	padding-bottom: 0;
+	padding-left: 25px;
+	min-height:400px;
+	overflow:visible;
+}
+
+#centercolumn { 
+	width: 480px;
+	padding-bottom: 20px;
+
+}
+
+#fullcolumn {
+	width:700px;
+}
+
+#centercolumn h1 {
+	line-height: 1.8em;
+	font-size: 180%;
+	color: #5a9fce;
+	font-weight: normal;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+	
+#centercolumn h2 {
+	line-height: 1.8em;
+	font-size: 130%;
+	color:#5a9fce;
+	font-weight: normal;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#centercolumn p, ul {
+	margin: 10px;
+}
+
+#centercolumn li {
+	margin-left: 50px;
+}
+
+#centercolumn h1, h2, h3, h4 {
+	color: #5a9fce;
+	font-weight: normal;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+
+
+#rightcolumn {
+	display: inline; /* IE Hack */
+	width: 205px;
+	float: right;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-size: 80%;
+}
+
+#rightcolumn h1, h2, h3, h4 {
+	color: #5a9fce;
+	font-size:130%;
+	font-weight: normal;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+
+#rightheight {
+	overflow: hidden;
+	background-position:top left;
+	background-repeat:no-repeat;
+	text-align:left;
+	padding: 10px 30px 60px 20px;
+	line-height:1.8em;
+}
+
+#rightheight h3 {
+	line-height:1.9em;
+}
+
+
+* html #centercolumn {
+	height:400px /* IE Min-Height Hack */ 
+}
+
+/*
+#footer {
+	position:fixed;
+	bottom:0;
+	float: left;
+	background-color: #585590;
+	color:#fff;
+	margin: 0;
+	padding: 4px;
+	font-size: 70%;
+	width: 770px;
+	clear:both;
+} */
+
+#footer {
+	float: left;
+	background-color: #585590;
+	color:#fff;
+	margin: 0;
+	padding: 4px;
+	font-size: 70%;
+	width: 770px;
+	clear:both;
+}
+
+#footer a {
+	color: #c4d1d9;
+	border-bottom:none;
+}
+
+#footer a:hover { 
+	text-decoration: underline;
+}
+
+.sec {
+	margin-top:10px;
+	padding-bottom:10px;
+	border:1px solid #EEEEEE;
+}   
+
+.secTitle {
+	font-size: 120%;
+	font-weight: bold;
+	color: #555;
+	padding: 2px 0px 2px 15px;
+	background-color: #e5ecf9;
+	border-bottom: 1px solid #87cefa;
+}
+
+.secBody {
+	padding: 10px;
+}
+
+.red {
+	padding-left: 2px;
+	color: red;
+}
+
+.clear {
+    clear:both;
+    font-size:1px;
+    height:1px;
+    width:1px;
+}
+
+
+input[type=password], 
+input[type=text], 
+input[type=checkbox], 
+input[type=submit], 
+input[type=button], 
+input[type=reset], 
+select, 
+textarea {
+	background-color: #ffffff;
+	padding: 2px;
+	border: 1px solid #d3d3d6;
+	color: #535356;
+}
+
+input:focus, 
+select:focus,
+textarea:focus {
+	background-color: #f7f7f7;
+}
+
+input[type=radio] {
+	margin-top: 4px;
+}
