@@ -2,6 +2,6 @@
 *.swp
 
 # specific dirs
-website/smarty/templates_c/* 
-!website/smarty/templates_c/.keep
+smarty/templates_c/* 
+!smarty/templates_c/.keep
 
