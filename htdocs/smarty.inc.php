@@ -4,7 +4,7 @@
 	require('/usr/local/lib/php/Smarty/Smarty.class.php');
 	$smarty = new Smarty();
 
-	$base_path = '/var/www/wombatswish.org.au';
+	$base_path = '/var/www/wombatswish';
 	$smarty->assign('base_url', 'http://www.wombatswish.org.au');
 
 	$smarty->template_dir =  $base_path . '/smarty/templates';
