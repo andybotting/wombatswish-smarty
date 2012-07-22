@@ -36,15 +36,15 @@ a:hover {
 }
 
 #navbar a {
-	padding: 4px 16px;
 	color:#fff;
+	padding: 4px 12px;
 	text-decoration:none;
 }
 
 #navbar a:hover { 
 	color: #c4d1d9;
+	padding: 4px 12px;
 	text-decoration: underline;
-	padding: 4px 16px;
 }
 
 
