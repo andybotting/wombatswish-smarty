@@ -55,6 +55,12 @@
 								<span class="red">*</span>
 							</td>
 						</tr>
+						<tr>
+							<td><label for="Family_Email">Email Address:</label></td>
+							<td>
+								<input name="Family_Email" size="40" maxlength="225" value="" type="text" />
+							</td>
+						</tr>
 
 						<tr>
 						</tr>
