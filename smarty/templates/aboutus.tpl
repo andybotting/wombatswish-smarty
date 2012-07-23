@@ -2,7 +2,7 @@
 
 {capture name="body"}
 			<div id="centercolumn">
-				<p>Each year, approximately 30 children in the Geelong area experience the death of a parent. Currently, no specialist service exists that offer professional support to these children. This is an extremely difficult time for them and their family, and this can potentially result in long-term emotional health problems.</p>
+				<p>Each year, approximately 100 children in the Geelong area experience the death of a parent. Currently, no specialist service exists that offer professional support to these children. This is an extremely difficult time for them and their family, and this can potentially result in long-term emotional health problems.</p>
 				
 				<p>We assist bereaved children to find a way to live with loss and grief, to move forward and take the next steps on their bereavement journey.</p>
 
