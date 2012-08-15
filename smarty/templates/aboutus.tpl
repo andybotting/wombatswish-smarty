@@ -10,6 +10,8 @@
 
 				<p>The service is a therapeutic one, provided by a team of professional facilitators in conjunction with trained volunteers.</p>
 
+				<p>At Wombat's Wish we believe all bereaved children, young people and their parents/carers have the right to information, guidance and support to enable them to manage the impact of death on their lives.</p>
+
 				<p>See the <a href="{$base_url}/volunteer">volunteer</a> for information about volunteering for Wombat's Wish.</p>
 
 			</div> <!-- centercolumn -->
