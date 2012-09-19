@@ -14,6 +14,9 @@
 		<p>The camp is a key component of the overall service and facilitates a therapeutic process that is highly valued by both parents and children.</p>
 		<p>It can be both challenging and fun, with practical and creative activities which encourage teamwork and build self esteem and confidence.</p>
 
+		<h2>Writing competition</h2>
+		<p>Wombat's Wish writing competition now open. Put pen to paper; stories, poems, memories - in any format you can think of.</p>
+		<p>Download the flyer from <a href="/misc/letting-go.pdf" and start writing.</p>
 	</div> <!-- centercolumn -->
 
 	<div id="rightcolumn">				
