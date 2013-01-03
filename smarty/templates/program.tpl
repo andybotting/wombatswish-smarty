@@ -17,6 +17,7 @@
 		<h2>Writing competition</h2>
 		<p>Wombat's Wish writing competition now open. Put pen to paper; stories, poems, memories - in any format you can think of.</p>
 		<p>Download the flyer from <a href="/misc/letting-go.pdf">here</a> and start writing.</p>
+		<p>See the <a href="{$base_url}/lettinggo">competition page</a> for the results.</p>
 	</div> <!-- centercolumn -->
 
 	<div id="rightcolumn">				
