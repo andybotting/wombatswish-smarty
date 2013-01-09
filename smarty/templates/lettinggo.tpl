@@ -4,6 +4,9 @@
 {capture name="body"}
 	<div id="centercolumn">
 
+		<p>Our first writing competition, in which primary and secondary school were asked to express their personal experience with grief and celebrate the life of someone special who has died, received 13 entries which are published below.</p>
+		<p>Congratulations to all entrants.</p>
+
 		<h2>Entries</h2>
 
 		<p>The results of the "Letting Go" writing competition:</p>

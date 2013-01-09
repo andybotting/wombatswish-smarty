@@ -16,9 +16,11 @@
 						<h3>Important Dates</h3>
 						<p>Next Camp: 
 							<ul style="margin-left: 15px; margin-top: 0px;"> 
-								<li>2-4 November 2012</li>
+								<li>4-5 May, 2013</li>
 							</ul>
 						</p>
+						<h3>Writing Competition</h3>
+						<p>The results of our 'Letting Go' writing competition <a href="{$base_url}/lettinggo">are in</a></p>
 					</div>
 					<br /><br />
 					<div>
