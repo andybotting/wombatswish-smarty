@@ -64,7 +64,7 @@ a:hover {
 	width:90%;
 }
 
-#welcometext h1{
+#welcometext h1 {
 	font-size:140%;
 	font-weight:normal;
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -94,9 +94,6 @@ a:hover {
 	font-size: 80%;
 }
 
-
-
-
 #centercolumn, #maincolumn {
 	/* Parent Wrapper for inside boxes */
 	display:block;
@@ -119,22 +116,39 @@ a:hover {
 
 #fullcolumn {
 	width:700px;
+	padding-bottom: 20px;
 }
 
-#centercolumn h1 {
-	line-height: 1.8em;
-	font-size: 180%;
+#centercolumn h1, h2, h3, h4 {
 	color: #5a9fce;
 	font-weight: normal;
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
-	
-#centercolumn h2 {
+
+#fullcolumn h1, h2, h3, h4 {
+   color: #5a9fce;
+   font-weight: normal;
+   font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#centercolumn h1, #fullcolumn h1 {
+	line-height: 1.8em;
+	font-size: 180%;
+}
+
+#centercolumn h2, #fullcolumn h2 {
 	line-height: 1.8em;
 	font-size: 130%;
-	color:#5a9fce;
-	font-weight: normal;
-	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#centercolumn h3, #fullcolumn h3 {
+	line-height: 1.6em;
+	font-size: 120%;
+}
+
+#centercolumn h4, #fullcolumn h4 {
+	line-height: 1.4em;
+	font-size: 110%;
 }
 
 #centercolumn p, ul {
@@ -144,14 +158,6 @@ a:hover {
 #centercolumn li {
 	margin-left: 50px;
 }
-
-#centercolumn h1, h2, h3, h4 {
-	color: #5a9fce;
-	font-weight: normal;
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-
-
 
 #rightcolumn {
 	display: inline; /* IE Hack */

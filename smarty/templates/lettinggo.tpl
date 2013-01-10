@@ -2,7 +2,7 @@
 
 
 {capture name="body"}
-	<div id="centercolumn">
+	<div id="fullcolumn">
 
 		<p>Our first writing competition, in which primary and secondary school were asked to express their personal experience with grief and celebrate the life of someone special who has died, received 13 entries which are published below.</p>
 		<p>Congratulations to all entrants.</p>
@@ -17,9 +17,9 @@
 
 		<h4>Secondary Section</h4>
 		<ul>
-			<li><b>First</b> – A Story for Mrs Brown by Elle Richards, Sacred Heart College
-			<li><b>Equal Second</b> – Letting Go by Chloe Kleidon, Belmont High School
-			<li><b>Equal Second</b> – That Memory by Pep Salmon, Sacred Heart College
+			<li><b>First</b> - A Story for Mrs Brown by Elle Richards, Sacred Heart College
+			<li><b>Equal Second</b> - Letting Go by Chloe Kleidon, Belmont High School
+			<li><b>Equal Second</b> - That Memory by Pep Salmon, Sacred Heart College
 		</ul>
 
 		<h4>Judge's Comments</h4>
@@ -50,11 +50,8 @@
 		</ul>
 
 
-	</div> <!-- centercolumn -->
+	</div> <!-- fullcolumn -->
 
-	<div id="rightcolumn">				
-
-	</div><!-- rightcolumn -->
 {/capture}
 {include file="template.tpl"}
 
