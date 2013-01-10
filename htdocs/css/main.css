@@ -47,8 +47,6 @@ a:hover {
 	text-decoration: underline;
 }
 
-
-
 #welcome {
 	text-align:right;
 	background: #ffffff url(../img/gradient.png) no-repeat;
@@ -94,7 +92,7 @@ a:hover {
 	font-size: 80%;
 }
 
-#centercolumn, #maincolumn {
+#centercolumn, #maincolumn, #fullcolumn {
 	/* Parent Wrapper for inside boxes */
 	display:block;
 	float: left;
@@ -102,7 +100,7 @@ a:hover {
 	margin-left: 10px;
 	padding-top: 0;
 	padding-right: 25px;
-	padding-bottom: 0;
+	padding-bottom: 20px;
 	padding-left: 25px;
 	min-height:400px;
 	overflow:visible;
@@ -110,13 +108,10 @@ a:hover {
 
 #centercolumn { 
 	width: 480px;
-	padding-bottom: 20px;
-
 }
 
 #fullcolumn {
 	width:700px;
-	padding-bottom: 20px;
 }
 
 #centercolumn h1, h2, h3, h4 {
@@ -138,24 +133,28 @@ a:hover {
 
 #centercolumn h2, #fullcolumn h2 {
 	line-height: 1.8em;
-	font-size: 130%;
+	font-size: 160%;
 }
 
 #centercolumn h3, #fullcolumn h3 {
 	line-height: 1.6em;
-	font-size: 120%;
+	font-size: 140%;
 }
 
 #centercolumn h4, #fullcolumn h4 {
 	line-height: 1.4em;
-	font-size: 110%;
+	font-size: 120%;
 }
 
 #centercolumn p, ul {
 	margin: 10px;
 }
 
-#centercolumn li {
+#fullcolumn p, ul {
+   margin: 10px;
+}
+
+#centercolumn li, #fullcolumn li {
 	margin-left: 50px;
 }
 
