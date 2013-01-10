@@ -9,20 +9,20 @@
 
 		<h2>Winners</h2>
 
-		<h3>Primary Section</h3>
+		<h4>Primary Section</h4>
 		<ul>
-			<li>First – Going and Gone by Ebony Ballan, Newtown Primary School</li>
-			<li>Second – Letting Go by Shaun Guajardo, Geelong East Primary School</li>
+			<li><b>First</b> - Going and Gone by Ebony Ballan, Newtown Primary School</li>
+			<li><b>Second</b> - Letting Go by Shaun Guajardo, Geelong East Primary School</li>
 		</ul>
 
-		<h3>Secondary Section</h3>
+		<h4>Secondary Section</h4>
 		<ul>
-			<li>First – A Story for Mrs Brown by Elle Richards, Sacred Heart College
-			<li>Equal Second – Letting Go by Chloe Kleidon, Belmont High School
-			<li>Equal Second – That Memory by Pep Salmon, Sacred Heart College
+			<li><b>First</b> – A Story for Mrs Brown by Elle Richards, Sacred Heart College
+			<li><b>Equal Second</b> – Letting Go by Chloe Kleidon, Belmont High School
+			<li><b>Equal Second</b> – That Memory by Pep Salmon, Sacred Heart College
 		</ul>
 
-		<h3>Judge's Comments</h3>
+		<h4>Judge's Comments</h4>
 		<p>Congratulations to all entrants for the honest and sensitive way in which they explored the topic Letting Go.</p>
 		<p>In the <u>Primary Section</u>, <b>Ebony's</b> piece about her cousin shows maturity, and I especially enjoyed the way in which she did not reveal the subject of the story until near the end.</p>
 		<p><b>Shaun</b> writes fluently and clearly about the relationship he enjoyed with his father, and he reflects on that loss now and into the future.</p>
