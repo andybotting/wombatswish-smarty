@@ -19,8 +19,8 @@
 								<li>4-5 May, 2013</li>
 							</ul>
 						</p>
-						<h3>Writing Competition</h3>
-						<p>The results of our 'Letting Go' writing competition <a href="{$base_url}/lettinggo">are in</a></p>
+						<h3>Entertainment Books</h3>
+						<a href="https://www.entertainmentbook.com.au/orderbooks/1185z00"><img src="{$base_url}/img/entertainment.jpg"></a>
 					</div>
 					<br /><br />
 					<div>
