@@ -322,6 +322,13 @@
 							</td>
 						</tr>
 						<tr>
+							<td><label for="Referrer_Suburb">Suburb:</label></td>
+							<td>
+								<input name="Referrer_Suburb" size="40" maxlength="50" value="" type="text" class="required" />
+								<span class="red">*</span>
+							</td>
+						</tr>
+						<tr>
 							<td><label for="Referrer_Postcode">Postcode:</label></td>
 							<td>
 								<input name="Referrer_Postcode" size="4" maxlength="4" value="" type="text" class="required" />
