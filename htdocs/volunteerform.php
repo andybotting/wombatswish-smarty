@@ -13,8 +13,8 @@
 		 
 			$from = $firstname." ".$surname." <".$email.">";
 			$subject = "WW Volunteer Application from $firstname $surname";
-			#$emailaddress = "volunteer@wombatswish.org.au";
-			$emailaddress = "andy@andybotting.com";
+			$emailaddress = "volunteer@wombatswish.org.au";
+			#$emailaddress = "andy@andybotting.com";
 
 			$separator = md5(time());
 			$eol = PHP_EOL;
