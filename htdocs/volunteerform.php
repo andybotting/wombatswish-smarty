@@ -34,9 +34,9 @@
   <tr><td>Surname:</td>       <td>$surname</td></tr>
   <tr><td>Address:</td>       <td>$address</td></tr>
   <tr><td>Date of Birth:</td> <td>$day/$month/$year</td></tr>
+  <tr><td>Telephone (M):</td> <td>$telephonemobile</td></tr>
   <tr><td>Telephone (H):</td> <td>$telephonehome</td></tr>
   <tr><td>Telephone (W):</td> <td>$telephonework</td></tr>
-  <tr><td>Telephone (M):</td> <td>$telephonemobile</td></tr>
   <tr><td>Email Address:</td> <td>$email</td></tr>
 </table>
 

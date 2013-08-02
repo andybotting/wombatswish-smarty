@@ -213,17 +213,16 @@
 							</td>
 						</tr>
 						<tr>
-							<td><p><label for="telephonehome">Telephone (H):</label></p></td>
-							<td>
-								<input name="telephonehome" size="30" maxlength="225" value="" type="text" class="required" />
-								<span class="red">*</span>
-							</td>
-						</tr>
-						<tr>
 							<td><p><label for="telephonemobile">Telephone (M):</label></p></td>
 							<td>
 								<input name="telephonemobile" size="30" maxlength="225" value="" type="text" class="required" />
 								<span class="red">*</span>
+							</td>
+						</tr>
+						<tr>
+							<td><p><label for="telephonehome">Telephone (H):</label></p></td>
+							<td>
+								<input name="telephonehome" size="30" maxlength="225" value="" type="text" />
 							</td>
 						</tr>
 						<tr>
