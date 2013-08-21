@@ -60,6 +60,7 @@
 			$vcard .= "VERSION:3.0\n";
 			$vcard .= "FN:$firstname $surname\n";
 			$vcard .= "N:".$surname.";".$firstname.";;".$title.";\n";
+			$vcard .= "ORG:Wombat's Wish Volunteer Applicant\n";
 			$vcard .= "BDAY:".$year."-".$month."-".$day."\n"; # 1980-12-30
 			$vcard .= "EMAIL;TYPE=INTERNET;TYPE=HOME:".$email."\n";
 			$vcard .= "TEL;TYPE=HOME:".$telephonehome."\n";
