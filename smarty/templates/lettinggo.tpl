@@ -1,57 +1,31 @@
-{capture name="title"}Letting Go Writing Competition{/capture}
-
+{capture name="title"}'Letting Go' Writing Competition 2013{/capture}
 
 {capture name="body"}
 	<div id="fullcolumn">
 
-		<p>Our first writing competition, in which primary and secondary school were asked to express their personal experience with grief and celebrate the life of someone special who has died, received 13 entries which are published below.</p>
-		<p>Congratulations to all entrants.</p>
+		<p>Wombat's Wish is a not-for-profit organisation which assists children who are grieving the death of a parent or significant person. This is an extremely difficult time for them and their family, and the resulting trauma can potentially result in long-term emotional health problems if not addressed. </p>
 
-		<h2>Winners</h2>
+		<p>Wombat's Wish is holding an annual short-story writing competition entitled "Letting Go". This competition provides an opportunity for young people grieving the death of someone special, to express their personal experiences in an open and creative manner. Through the power of words, participants can begin to ‘let go’ of grief, celebrate the life of someone they loved, and look to the future as they continue their own lives in positive mental health. The competition is inclusive of primary and secondary school ages, with four prize categories:</p>
 
-		<h4>Primary Section</h4>
 		<ul>
-			<li><b>First</b> - Going and Gone by Ebony Ballan, Newtown Primary School</li>
-			<li><b>Second</b> - Letting Go by Shaun Guajardo, Geelong East Primary School</li>
+			<li><b>Primary aged</b> - 1st prize and 2nd prize</li>
+			<li><b>Secondary aged</b> - 1st prize and 2nd prize</li>
 		</ul>
 
-		<h4>Secondary Section</h4>
-		<ul>
-			<li><b>First</b> - A Story for Mrs Brown by Elle Richards, Sacred Heart College
-			<li><b>Equal Second</b> - Letting Go by Chloe Kleidon, Belmont High School
-			<li><b>Equal Second</b> - That Memory by Pep Salmon, Sacred Heart College
-		</ul>
+		<p><b><i>We humbly invite you to support our event, by donating some prizes which can be used for our winning entries. </i></b></p>
 
-		<h4>Judge's Comments</h4>
-		<p>Congratulations to all entrants for the honest and sensitive way in which they explored the topic Letting Go.</p>
-		<p>In the <u>Primary Section</u>, <b>Ebony's</b> piece about her cousin shows maturity, and I especially enjoyed the way in which she did not reveal the subject of the story until near the end.</p>
-		<p><b>Shaun</b> writes fluently and clearly about the relationship he enjoyed with his father, and he reflects on that loss now and into the future.</p>
-		<p>In the <u>Secondary Section</u>, <b>Elle's</b> sensitive and thoughtful approach to the loss of a loved teacher is a powerful and touching piece. She uses childlike language structure but infuses it with a maturity beyond her years.</p>
-		<p><b>Chloe's</b> use of interchanging narratives work very well and the writing is fluent. The use of remembered conversation creates an interesting structure.</p>
-		<p><b>Pep's</b> story explores memory loss, the grief associated with dementia and its impact on those around. A fluent and well-structured piece.</p>
+		<p>If you would like to donate we would love to hear from you. Any donations, large or small, would be greatly appreciated!</p>
 
-		<h2>Entries</h2>
+		<p>We thank you in anticipation, and look forward to the opportunity of working with you.</p>
 
-		<p>The results of the "Letting Go" writing competition:</p>
-		<ul>
-			<li><a href="{$base_url}/entries/Amy Ditchburn.pdf">Amy Ditchburn</a></li>
-			<li><a href="{$base_url}/entries/Chloe Kleidon.pdf">Chloe Kleidon</a></li>
-			<li><a href="{$base_url}/entries/Corrin Demeo.pdf">Corrin Demeo</a></li>
-			<li><a href="{$base_url}/entries/Deakin Malden.pdf">Deakin Malden</a></li>
-			<li><a href="{$base_url}/entries/Ebony Ballan.pdf">Ebony Ballan</a></li>
-			<li><a href="{$base_url}/entries/Elizabeth Pillage.pdf">Elizabeth Pillage</a></li>
-			<li><a href="{$base_url}/entries/Elle Richards.pdf">Elle Richards</a></li>
-			<li><a href="{$base_url}/entries/Georgia Finnie.pdf">Georgia Finnie</a></li>
-			<li><a href="{$base_url}/entries/Lucy Thomas.pdf">Lucy Thomas</a></li>
-			<li><a href="{$base_url}/entries/Meg Blood.pdf">Meg Blood</a></li>
-			<li><a href="{$base_url}/entries/Olivia Marshall.pdf">Olivia Marshall</a></li>
-			<li><a href="{$base_url}/entries/Penelope Salmon.pdf">Penelope Salmon</a></li>
-			<li><a href="{$base_url}/entries/Shaun Guajardo.pdf">Shaun Guajardo</a></li>
-		</ul>
-
+		<p><b>Please contact us:</b></p>
+		
+		<p>
+			Email: <a href="mailto:jill@wombatswish.org.au">jill@wombatswish.org.au</a><br />
+			Phone: 0487 157 067
+		</p>
 
 	</div> <!-- fullcolumn -->
 
 {/capture}
 {include file="template.tpl"}
-
