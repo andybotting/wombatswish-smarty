@@ -34,8 +34,8 @@
   <tr><td>Surname:</td>       <td>$surname</td></tr>
   <tr><td>Street:</td>        <td>$street</td></tr>
   <tr><td>Suburb:</td>        <td>$suburb</td></tr>
-  <tr><td>Postcode:</td>      <td>$postcode</td></tr>
   <tr><td>State:</td>         <td>$state</td></tr>
+  <tr><td>Postcode:</td>      <td>$postcode</td></tr>
   <tr><td>Date of Birth:</td> <td>$day/$month/$year</td></tr>
   <tr><td>Telephone (M):</td> <td>$telephonemobile</td></tr>
   <tr><td>Telephone (H):</td> <td>$telephonehome</td></tr>
@@ -59,8 +59,6 @@
 <p>$otherinfo</p>
 ";
 
-			$address = $street.", ".$suburb.", ".$state.", ".$postcode
-
 			$vcard = "BEGIN:VCARD\n";
 			$vcard .= "VERSION:3.0\n";
 			$vcard .= "FN:$firstname $surname\n";
@@ -71,7 +69,7 @@
 			$vcard .= "TEL;TYPE=HOME:".$telephonehome."\n";
 			$vcard .= "TEL;TYPE=CELL:".$telephonemobile."\n";
 			$vcard .= "TEL;TYPE=WORK:".$telephonework."\n";
-			$vcard .= "ADR;TYPE=HOME:;;"$street.";".$suburb.";".$state.";".$postcode.";Australia\n";
+			$vcard .= "ADR;TYPE=HOME:;;".$street.";".$suburb.";".$state.";".$postcode.";Australia\n";
 			$vcard .= "END:VCARD\n";
 		
 			// message

@@ -56,13 +56,6 @@
 							</td>
 						</tr>
 						<tr>
-							<td><p><label for="postcode">Postcode:</label></p></td>
-							<td>
-								<input name="postcode" size="10" maxlength="4" value="" type="text" class="required" />
-								<span class="red">*</span>
-							</td>
-						</tr>
-						<tr>
 							<td><p><label for="state">State:</label></p></td>
 							<td>
 								<select name="state" class="required">
@@ -76,6 +69,13 @@
 									<option value="TAS">Tasmania</option>
 									<option value="WA">Western Australia</option>
 								</select>
+								<span class="red">*</span>
+							</td>
+						</tr>
+						<tr>
+							<td><p><label for="postcode">Postcode:</label></p></td>
+							<td>
+								<input name="postcode" size="10" maxlength="4" value="" type="text" class="required" />
 								<span class="red">*</span>
 							</td>
 						</tr>
