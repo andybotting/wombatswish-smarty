@@ -30,21 +30,52 @@
 						<tr>
 							<td><p><label for="firstname">First name:</label></p></td>
 							<td>
-								<input name="firstname" size="30" maxlength="225" value="" type="text" class="required" />
+								<input name="firstname" size="50" maxlength="225" value="" type="text" class="required" />
 								<span class="red">*</span>
 							</td>
 						</tr>
 						<tr>
 							<td><p><label for="surname">Surname:</label></p></td>
 							<td>
-								<input name="surname" size="30" maxlength="225" value="" type="text" class="required" />
+								<input name="surname" size="50" maxlength="225" value="" type="text" class="required" />
 								<span class="red">*</span>
 							</td>
 						</tr>
 						<tr>
-							<td><p><label for="address">Address:</label></p></td>
+							<td><p><label for="street">Street:</label></p></td>
 							<td>
-								<input name="address" size="30" maxlength="225" value="" type="text" class="required" />
+								<input name="street" size="50" maxlength="100" value="" type="text" class="required" />
+								<span class="red">*</span>
+							</td>
+						</tr>
+						<tr>
+							<td><p><label for="suburb">Suburb:</label></p></td>
+							<td>
+								<input name="suburb" size="30" maxlength="50" value="" type="text" class="required" />
+								<span class="red">*</span>
+							</td>
+						</tr>
+						<tr>
+							<td><p><label for="postcode">Postcode:</label></p></td>
+							<td>
+								<input name="postcode" size="10" maxlength="4" value="" type="text" class="required" />
+								<span class="red">*</span>
+							</td>
+						</tr>
+						<tr>
+							<td><p><label for="state">State:</label></p></td>
+							<td>
+								<select name="state" class="required">
+									<option>Select...&nbsp;&nbsp;&nbsp;</option>
+									<option value="VIC">Victoria</option>
+									<option value="ACT">Australian Capital Territory</option>
+									<option value="NSW">New South Wales</option>
+									<option value="NT">Northern Territory</option>
+									<option value="QLD">Queensland</option>
+									<option value="SA">South Australia</option>
+									<option value="TAS">Tasmania</option>
+									<option value="WA">Western Australia</option>
+								</select>
 								<span class="red">*</span>
 							</td>
 						</tr>
