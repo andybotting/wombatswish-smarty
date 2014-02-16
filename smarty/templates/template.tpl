@@ -25,6 +25,7 @@
 				<a href="{$base_url}/">Home</a> 
 				<a href="{$base_url}/aboutus">About Us</a> 
 				<a href="{$base_url}/program">Program</a> 
+				<a href="{$base_url}/photos">Photos</a> 
 				<a href="{$base_url}/referral">Referrals</a>
 				<a href="{$base_url}/sponsors">Sponsors</a>
 				<a href="{$base_url}/donate">Donate</a>
