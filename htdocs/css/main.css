@@ -37,13 +37,12 @@ a:hover {
 
 #navbar a {
 	color:#fff;
-	padding: 4px 12px;
+	padding: 4px 8px;
 	text-decoration:none;
 }
 
 #navbar a:hover { 
 	color: #c4d1d9;
-	padding: 4px 12px;
 	text-decoration: underline;
 }
 
