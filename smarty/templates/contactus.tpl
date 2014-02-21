@@ -7,13 +7,12 @@
 							Please, don't hesitate to contact us. 
 						</p>
 
-
 						<div style="float:left;">
 							<div class="contact" style="margin:10px;">
 								<p>
-									<b>Jill Crookes</b><br/>
-									Phone: 0412 186 542<br/>
-									{mailto address="jill@wombatswish.org.au" encode="hex"}<br/>
+									<b>Melanie Botting</b><br/>
+									Phone: 0403 055217<br/>
+									{mailto address="melanie@wombatswish.org.au" encode="hex"}<br/>
 								</p>
 							</div>
 						</div>
@@ -21,9 +20,9 @@
 						<div style="float:left;">
 							<div class="contact" style="margin:10px;">
 								<p>
-									<b>Melanie Botting</b><br/>
-									Phone: 0403 055217<br/>
-									{mailto address="melanie@wombatswish.org.au" encode="hex"}<br/>
+									<b>Jill Crookes</b><br/>
+									Phone: 0412 186 542<br/>
+									{mailto address="jill@wombatswish.org.au" encode="hex"}<br/>
 								</p>
 							</div>
 						</div>
