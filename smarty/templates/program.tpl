@@ -14,9 +14,11 @@
 		<p>The camp is a key component of the overall service and facilitates a therapeutic process that is highly valued by both parents and children.</p>
 		<p>It can be both challenging and fun, with practical and creative activities which encourage teamwork and build self esteem and confidence.</p>
 
-		<h2>Writing competition</h2>
-		<p>Wombat's Wish writing competition now <b>closed</b>.
-		<p>Results coming soon.</p>
+		<h2>"Letting Go"</h2>
+		<p>A short story writing competition for primary and secondary school students</p>
+		<p>This competition is run annually in conjunction with mental Health Week and encourages young people to express their personal experience with grief, and celebrate the life of someone special.</p>
+		<p>The competition is now <b>closed</b>.
+		<p>See our <a href="/lettinggo">Letting Go</a> page for more details.</p>
 	</div> <!-- centercolumn -->
 
 	<div id="rightcolumn">				

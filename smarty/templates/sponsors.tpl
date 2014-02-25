@@ -10,10 +10,8 @@
 
 						<h4>Ambassador:</h4>
 						<ul>
-							<li>Brain Cook</li>
+							<li>Brain Cook, Chief Executive, Geelong Cats Football Club</li>
 							<li>Chief Executive</li>
-							<li>Dr Gillian Turner</li>
-							<li>Geelong Cats Football Club</li>
 						</ul>
 
 						<h4>Supported by:</h4>

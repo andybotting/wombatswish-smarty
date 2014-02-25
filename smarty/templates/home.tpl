@@ -19,7 +19,9 @@
 								<li>3-4 May, 2014</li>
 							</ul>
 						</p>
-						<h3>Entertainment Books</h3>
+						<h3>Donate</h3>
+						<p>Wombat's Wish cannot operate without your support. You can <a href="/donate">donate here.</a></p>
+						<h3>Entertainment Book</h3>
 						<a href="https://www.entertainmentbook.com.au/orderbooks/1185z00"><img src="{$base_url}/img/entertainment.jpg"></a>
 					</div>
 					<br /><br />

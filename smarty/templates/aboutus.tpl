@@ -14,6 +14,16 @@
 
 				<p>See the <a href="{$base_url}/volunteer">volunteer</a> for information about volunteering for Wombat's Wish.</p>
 
+            <h4>Wombat's Wish committee:</h4>
+				<ul>
+					<li>Chairperson: Jill Crookes</li>
+					<li>Secretary: Julie Parkin</li>
+					<li>Assistant Secretary: Jennifer Carr</li>
+					<li>Treasurer: Peter Tran</li>
+					<li>Assistant Treasurer: Jibin Kunjumon</li>
+					<li>Ordinary members: Annie Johnson, Amanda Schram</li>
+				</ul>
+
 			</div> <!-- centercolumn -->
 
 			<div id="rightcolumn">

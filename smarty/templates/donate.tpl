@@ -3,8 +3,9 @@
 {capture name="body"}
 	<div id="centercolumn">
 
-		<p>To make a donation to Wombat's Wish, please send to:</p>
+		<p>To make a donation to Wombat's Wish:</p>
 
+		<h2>Cheque</h2>
 		<div class="contact" style="margin:10px;">
 			<p>
 				Wombat's Wish<br/>
@@ -12,6 +13,9 @@
 				Geelong 3220<br/>
 			</p>
 		</div>
+
+		<h2>Online</h2>
+		<p>We now accept donations online via <a href="http://www.everydayhero.com.au/charity/view?charity=2966">Everyday Hero</a>
 		
 
 	</div> <!-- centercolumn -->
