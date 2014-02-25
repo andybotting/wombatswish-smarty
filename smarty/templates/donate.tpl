@@ -6,6 +6,7 @@
 		<p>To make a donation to Wombat's Wish:</p>
 
 		<h2>Cheque</h2>
+		<p>Please make your cheque out to <b>Wombat's Wish</b> and send it to:</p>
 		<div class="contact" style="margin:10px;">
 			<p>
 				Wombat's Wish<br/>
@@ -15,7 +16,8 @@
 		</div>
 
 		<h2>Online</h2>
-		<p>We now accept donations online via <a href="http://www.everydayhero.com.au/charity/view?charity=2966">Everyday Hero</a>
+		<a href="http://www.everydayhero.com.au/charity/view?charity=2966"><img src="/img/everyday_hero_logo.png" /></a>
+		<p>We now accept donations online via <a href="http://www.everydayhero.com.au/charity/view?charity=2966">Everyday Hero</a>.
 		
 
 	</div> <!-- centercolumn -->
