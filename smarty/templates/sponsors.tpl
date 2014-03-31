@@ -41,6 +41,8 @@
 
 
 				<div id="rightcolumn">				
+					<a href="{$base_url}/img/gartland.jpg"><img src="{$base_url}/img/gartland-thumb.jpg" alt="Gartland"/></a>
+					<br />
 					<img src="{$base_url}/img/give_where_you_live.png" alt="Give Where You Live"/>
 				</div>
 {/capture}
