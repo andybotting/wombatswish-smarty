@@ -34,5 +34,4 @@
 			</div> <!-- rightcolumn -->
 {/capture}
 
-
 {include file="template.tpl"}
