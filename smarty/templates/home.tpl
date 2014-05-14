@@ -15,7 +15,7 @@
 					<h3>Important Dates</h3>
 					<p>Next Camp: 
 						<ul style="margin-left: 15px; margin-top: 0px;"> 
-							<li>3-4 May, 2014</li>
+							<li>1st - 2nd November, 2014</li>
 						</ul>
 					</p>
 					<br />
