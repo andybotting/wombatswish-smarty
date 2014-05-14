@@ -10,7 +10,7 @@
 
 						<h4>Ambassador:</h4>
 						<ul>
-							<li>Brain Cook, Chief Executive, Geelong Cats Football Club</li>
+							<li>Brian Cook, Chief Executive, Geelong Cats Football Club</li>
 							<li>Gillian Turner</li>
 							<li>Anne Tillig</li>
 						</ul>
