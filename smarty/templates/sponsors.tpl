@@ -20,21 +20,23 @@
 					
 						<h4>Sponsored by:</h4>
 						<ul>
-                     <li>Adroit Insurance Group</li> 
-                     <li>Andy Botting</li> 
-                     <li>Burnside Camp</li> 
-                     <li>Roaming reptiles</li> 
-                     <li>Coulter Roache Social Club</li> 
-                     <li>Crookes Counseling and Consulting Services</li> 
-                     <li>David Manks Psychology</li> 
-                     <li>Le Reve</li> 
-                     <li>NAB Staff Geelong</li> 
-                     <li>RefMet</li> 
-                     <li>TARTS (live life laughing)</li> 
-                     <li>The Kiwanis Club</li> 
-                     <li>The Lions Club Geelong</li> 
-                     <li>Clifton Springs Men's Shed</li> 
-                     <li>LBW accounting</li> 
+							<li>Adroit Insurance Group</li>
+							<li>Andy Botting</li>
+							<li>Burnside Camp</li>
+							<li>Roaming reptiles</li>
+							<li>Coulter Roache Social Club</li>
+							<li>Crookes Counseling and Consulting Services</li>
+							<li>David Manks Psychology</li>
+							<li>Hastwell and Lightfoot</li>
+							<li>Le Reve</li>
+							<li>NAB Staff Geelong</li>
+							<li>One World Children’s Centre</li>
+							<li>RefMet</li>
+							<li>TARTS (live life laughing)</li>
+							<li>The Kiwanis Club</li>
+							<li>The Lions Club Geelong</li>
+							<li>Clifton Springs Men's Shed</li>
+							<li>LBW accounting</li>
 						</ul>
 
            		</div> <!-- centercolumn -->
