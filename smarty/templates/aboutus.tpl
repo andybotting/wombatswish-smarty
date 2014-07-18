@@ -18,13 +18,35 @@
 				<ul>
 					<li>Chairperson: Jill Crookes</li>
 					<li>Secretary: Julie Parkin</li>
-					<li>Assistant Secretary: Jennifer Carr</li>
 					<li>Treasurer: Peter Tran</li>
 					<li>Assistant Treasurer: Jibin Kunjumon</li>
-					<li>Ordinary members: Annie Johnson, Amanda Schram</li>
 				</ul>
 
+
+				<div style="float:left;">
+					<div class="contact" style="margin:10px;">
+						<p>
+							<b>Melanie Botting</b><br/>
+							Phone: 0403 055217<br/>
+							{mailto address="melanie@wombatswish.org.au" encode="hex"}<br/>
+						</p>
+					</div>
+				</div>
+
+				<div style="float:left;">
+					<div class="contact" style="margin:10px;">
+						<p>
+							<b>Jill Crookes</b><br/>
+							Phone: 0412 186 542<br/>
+							{mailto address="jill@wombatswish.org.au" encode="hex"}<br/>
+						</p>
+					</div>
+				</div>
+
+				<div class="clear"></div>
+
 			</div> <!-- centercolumn -->
+
 
 			<div id="rightcolumn">
 				<div id="rightheight">
