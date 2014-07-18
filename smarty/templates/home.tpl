@@ -12,6 +12,10 @@
 
 			<div id="rightcolumn">
 				<div id="rightheight">
+
+					<h3>Fundrasing</h3>
+					<p>Wombat's Wish Spring Fashion Race Day - <a href="http://events.ticketbooth.com.au/event/3855622">Book Tickets here</a></p>
+
 					<h3>Important Dates</h3>
 					<p>Next Camp: 
 						<ul style="margin-left: 15px; margin-top: 0px;"> 
@@ -28,8 +32,6 @@
 					<p><a href="https://www.entertainmentbook.com.au/orderbooks/1185z00"><img src="{$base_url}/img/entertainment.jpg"></a></p>
 					<br />
 
-					<h3>Our Vision</h3>
-					<p>To develop a community based service that will provide the support that parentally bereaved children, young people and their families need.</p>
 				</div>
 			</div> <!-- rightcolumn -->
 {/capture} 
