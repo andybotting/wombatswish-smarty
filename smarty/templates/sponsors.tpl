@@ -30,7 +30,7 @@
 							<li>Hastwell and Lightfoot</li>
 							<li>Le Reve</li>
 							<li>NAB Staff Geelong</li>
-							<li>One World Children’s Centre</li>
+							<li>One World Children's Centre</li>
 							<li>RefMet</li>
 							<li>TARTS (live life laughing)</li>
 							<li>The Kiwanis Club</li>
