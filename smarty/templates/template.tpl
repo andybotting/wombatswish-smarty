@@ -29,7 +29,7 @@
 				<a href="{$base_url}/referral">Referrals</a>
 				<a href="{$base_url}/sponsors">Sponsors</a>
 				<a href="{$base_url}/donate">Donate</a>
-				<a href="{$base_url}/contactus">Contact Us </a> 
+				<a href="{$base_url}/events">Events</a> 
 				<a href="{$base_url}/volunteer">Volunteer</a> 
 			</div> <!-- end navbar -->
 
