@@ -2,6 +2,8 @@
 
 {capture name="body"}
 			<div id="centercolumn">
+                <br />
+                <br />
 				<div align="center">
 					<img src="{$base_url}/img/wombatlogo-big.gif" alt="Wombat's Wish" />
 				</div>
