@@ -18,10 +18,10 @@
 				</div>
 				<div id="social">
 					<a href="http://www.facebook.com/WombatsWish">
-                        <img src="{$base_url}/img/facebook_icon.png" alt="Facebook" width="135" height="135" border="0" />
+                        <img src="{$base_url}/img/facebook_icon.png" alt="Facebook" width="70" height="70" border="0" />
                     </a>
                     <a href="http://www.twitter.com/WombatsWish">
-                        <img src="{$base_url}/img/twitter_icon.png" alt="Twitter" width="135" height="135" border="0" />
+                        <img src="{$base_url}/img/twitter_icon.png" alt="Twitter" width="70" height="70" border="0" />
                     </a>
 				</div>
 				<div id="slogan">
