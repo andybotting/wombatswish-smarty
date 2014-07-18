@@ -14,7 +14,11 @@
 				<div id="rightheight">
 
 					<h3>Fundrasing</h3>
-					<p>Wombat's Wish Spring Fashion Race Day - <a href="http://events.ticketbooth.com.au/event/3855622">Book Tickets here</a></p>
+					<p>Wombat's Wish Spring Fashion Race Day
+                        <br />
+                        <a href="http://events.ticketbooth.com.au/event/3855622">Book Tickets here</a>
+                    </p>
+					<br />
 
 					<h3>Important Dates</h3>
 					<p>Next Camp: 
