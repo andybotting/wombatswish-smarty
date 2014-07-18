@@ -5,7 +5,7 @@
 }
 
 body {
-	background: #ffffff url('../img/line_bg_blue.gif')  50% 0; 
+	background: #ffffff url('../img/line_bg_blue.gif')  50% 0;
 	color: #333333;
 	text-align: center; /* be nice to IE */
 	/* background-attachment: fixed; */
@@ -41,7 +41,7 @@ a:hover {
 	text-decoration:none;
 }
 
-#navbar a:hover { 
+#navbar a:hover {
 	color: #c4d1d9;
 	text-decoration: underline;
 }
@@ -51,7 +51,7 @@ a:hover {
 	background: #ffffff url(../img/gradient.png) no-repeat;
 	height:60px;
 }
- 
+
 #welcometext {
 	padding:25px 5px 0 0;
 	margin-left:20px;
@@ -67,7 +67,7 @@ a:hover {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	color:#5a9fce;
 }
- 
+
 #header {
 	height:80px;
 	padding: 5px 10px;
@@ -81,13 +81,17 @@ a:hover {
 }
 
 #logo {
-	float:left; 
+	float:left;
 	width:305px;
+}
+
+#social {
+    float:right;
 }
 
 #slogan {
 	float:right;
-	margin-top: 65px; 
+	margin-top: 65px;
 	font-size: 80%;
 }
 
@@ -105,7 +109,7 @@ a:hover {
 	overflow:visible;
 }
 
-#centercolumn { 
+#centercolumn {
 	width: 480px;
 }
 
@@ -191,7 +195,7 @@ a:hover {
 
 
 * html #centercolumn {
-	height:400px /* IE Min-Height Hack */ 
+	height:400px /* IE Min-Height Hack */
 }
 
 /*
@@ -225,7 +229,7 @@ a:hover {
 	border-bottom:none;
 }
 
-#footer a:hover { 
+#footer a:hover {
 	text-decoration: underline;
 }
 
@@ -233,7 +237,7 @@ a:hover {
 	margin-top:10px;
 	padding-bottom:10px;
 	border:1px solid #EEEEEE;
-}   
+}
 
 .secTitle {
 	font-size: 120%;
@@ -261,13 +265,13 @@ a:hover {
 }
 
 
-input[type=password], 
-input[type=text], 
-input[type=checkbox], 
-input[type=submit], 
-input[type=button], 
-input[type=reset], 
-select, 
+input[type=password],
+input[type=text],
+input[type=checkbox],
+input[type=submit],
+input[type=button],
+input[type=reset],
+select,
 textarea {
 	background-color: #ffffff;
 	padding: 2px;
@@ -275,7 +279,7 @@ textarea {
 	color: #535356;
 }
 
-input:focus, 
+input:focus,
 select:focus,
 textarea:focus {
 	background-color: #f7f7f7;
