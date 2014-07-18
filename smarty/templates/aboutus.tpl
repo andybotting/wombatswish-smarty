@@ -22,7 +22,7 @@
 					<li>Assistant Treasurer: Jibin Kunjumon</li>
 				</ul>
 
-
+            <h4>Contact Us:</h4>
 				<div style="float:left;">
 					<div class="contact" style="margin:10px;">
 						<p>
