@@ -1,4 +1,4 @@
-{capture name="title"}'Letting Go' Writing Competition 2013{/capture}
+{capture name="title"}Writing Competition 2014{/capture}
 
 {capture name="body"}
 	<div id="fullcolumn">
