@@ -2,11 +2,11 @@
 
 {capture name="body"}
 			<div id="centercolumn">
-				<p>Each year, approximately 100 children in the Geelong area experience the death of a parent. Currently, no specialist service exists that offer professional support to these children. This is an extremely difficult time for them and their family, and this can potentially result in long-term emotional health problems.</p>
+				<p>Each year, approximately 100 children in the Geelong area experience the death of a parent. Currently, Wombat's Wish is the only specialist service that offers support to these children. This is an extremely difficult time for them and their family, and this can potentially result in long-term emotional health problems.</p>
 				
 				<p>We assist bereaved children to find a way to live with loss and grief, to move forward and take the next steps on their bereavement journey.</p>
 
-				<p>Wombat's Wish is based on a very successful and highly regarded <i>Winston's Wish</i> program in the UK. Wombat's Wish hopes to demonstrate the value of such a service in the Geelong area.</p>
+				<p>Wombat's Wish is based on a very successful and highly regarded <i>Winston's Wish</i> program in the UK. Wombat's Wish aims to provide a similarly valuable and extensive service in the Geelong area.</p>
 
 				<p>The service is a therapeutic one, provided by a team of professional facilitators in conjunction with trained volunteers.</p>
 
@@ -19,7 +19,6 @@
 					<li>Chairperson: Jill Crookes</li>
 					<li>Secretary: Julie Parkin</li>
 					<li>Treasurer: Peter Tran</li>
-					<li>Assistant Treasurer: Jibin Kunjumon</li>
 				</ul>
 
             <h4>Contact Us:</h4>
