@@ -8,21 +8,12 @@
 					<img src="{$base_url}/img/wombatlogo-big.gif" alt="Wombat's Wish" />
 				</div>
 				<p style="text-align:center; padding-top: 20px;">
-					Assisting bereaved children to find ways to live with loss and grief, to build on their resilience, to move forward and take the next steps on their berevement journey.
+					Assisting bereaved children to find ways to live with loss and grief, to build on their resilience, to move forward and take the next steps on their bereavement journey.
 				</p>
 			</div> <!-- centercolumn -->
 
 			<div id="rightcolumn">
 				<div id="rightheight">
-
-					<h3>Fundrasing</h3>
-					<p>
-                        <img style="align:left;" src="{$base_url}/img/horsies.png">
-                        Wombat's Wish Spring Fashion Race Day
-                        <br />
-                        <a href="http://events.ticketbooth.com.au/event/3855622">Book Tickets here</a>
-                    </p>
-					<br />
 
 					<h3>Important Dates</h3>
 					<p>Next Camp: 
