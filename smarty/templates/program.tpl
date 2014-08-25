@@ -17,7 +17,7 @@
 		<h2>"Letting Go"</h2>
 		<p>A short story writing competition for primary and secondary school students</p>
 		<p>This competition is run annually in conjunction with mental Health Week and encourages young people to express their personal experience with grief, and celebrate the life of someone special.</p>
-		<p>The competition is now <b>closed</b>.
+		<p>The competition is now <b>open</b> for 2014.
 		<p>See our <a href="/lettinggo">Letting Go</a> page for more details.</p>
 	</div> <!-- centercolumn -->
 
