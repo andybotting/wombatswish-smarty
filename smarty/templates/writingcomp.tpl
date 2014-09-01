@@ -16,7 +16,7 @@
 
 		<p>Entries close 19th September 2014</p>
 
-		<p>Please submit your entries to:<br />
+		<p><b>Please submit your entries to:</b><br />
             Wombat's Wish Writing Competition<br />
             PO BOX 2045<br />
             GEELONG, 3220<br />
