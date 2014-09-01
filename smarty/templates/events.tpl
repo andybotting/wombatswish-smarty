@@ -1,7 +1,7 @@
 {capture name="title"}Events{/capture}
 
 {capture name="body"}
-			<div id="centercolumn">
+			<div id="fullcolumn">
 
                 <h3>Family Fun Day</h3>
                 <p>The family fun day will be held in late November. More details to follow.</p>
