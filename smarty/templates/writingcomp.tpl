@@ -16,8 +16,8 @@
 
 		<p>Entries close 19th September 2014</p>
 
-		<p>Please submit your entries to:< br />
-            Wombat’s Wish Writing Competition<br />
+		<p>Please submit your entries to:<br />
+            Wombat's Wish Writing Competition<br />
             PO BOX 2045<br />
             GEELONG, 3220<br />
 			or email: <a href="mailto:jill@wombatswish.org.au">jill@wombatswish.org.au</a></p>
