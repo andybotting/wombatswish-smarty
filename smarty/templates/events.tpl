@@ -4,13 +4,11 @@
 			<div id="fullcolumn">
 
                 <h3>Family Fun Day</h3>
-                <p>The family fun day will be held in late November. More details to follow.</p>
-
-                <h3>Free Public Community Workshop: "Talking to Children about Grief and Loss"</h3>
-                <p>Presenter: Jill Crookes, Psychologist, Founder of Wombat's Wish<br />
-                    When: Thursday 2nd, October 2014, 6.30pm - 8.30pm<br />
-                    Where: Geelong Club, 74 Brougham Street, Geelong, VIC, 3220<br />
-                    Why: This seminar will provide participants with strategies and ideas on having conversations about grief and loss with children.</p>
+                <p>A gathering of the Wombat's Wish community (families, volunteers, staff, sponsors, donors and supporters)<br />
+                   When: Sunday 30th November 2014, 11:00am - 3:00pm<br />
+                   Where: King Lloyd Reserve, Windsor Road, Newtown 3220<br />
+                   Wombat's Wish will supply a sausage sizzle/BBQ, salads and drinks. Please bring any special food or drink requirements.<br />
+                   Please RSVP by Friday 21st November, 2014 to Jill Crookes on 0412 186 542 or jill@wombatswish.org.au</p>
 
 			</div> <!-- centercolumn -->
 
