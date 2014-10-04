@@ -24,8 +24,8 @@
 					<p>Family Fun Day:
 						<ul style="margin-left: 15px; margin-top: 0px;"> 
 							<li>30th Nov, 2014</li>
-							<li>See the <a href="{$base_url}/events">events</a> page for more details.</li>
 						</ul>
+    					See the <a href="{$base_url}/events">events</a> page for more details.
 					</p>
 
 					<br />
