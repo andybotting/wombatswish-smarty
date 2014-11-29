@@ -23,7 +23,7 @@
 					</p>
 					<p>Family Fun Day:
 						<ul style="margin-left: 15px; margin-top: 0px;"> 
-							<li>30th Nov, 2014</li>
+							<li><span style="font-color: red;">Postponed</span> until Feb 2015</li>
 						</ul>
     					See the <a href="{$base_url}/events">events</a> page for more details.
 					</p>
