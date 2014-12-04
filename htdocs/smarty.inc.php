@@ -1,8 +1,8 @@
 <?php
 
 	// put full path to Smarty.class.php
-	require('/usr/share/php/smarty/Smarty.class.php');
-	$smarty = new Smarty();
+	require('/usr/share/php/smarty/SmartyBC.class.php');
+	$smarty = new SmartyBC();
 
 	$base_path = '/var/www/wombatswish';
 	$smarty->assign('base_url', 'http://www.wombatswish.org.au');
