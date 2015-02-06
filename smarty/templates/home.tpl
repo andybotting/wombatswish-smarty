@@ -18,7 +18,7 @@
 					<h3>Important Dates</h3>
 					<p>Family Fun Day:
 						<ul style="margin-left: 15px; margin-top: 0px;">
-							<li>Sunday 22nd Feb, 2015</li>
+							<li>Sun 22nd Feb, 2015</li>
 						</ul>
     					See the <a href="{$base_url}/events">events</a> page for more details.
 					</p>
