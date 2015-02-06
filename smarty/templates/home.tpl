@@ -22,12 +22,12 @@
 						</ul>
     					See the <a href="{$base_url}/events">events</a> page for more details.
 					</p>
+					<br />
 					<p>Next Camp:
 						<ul style="margin-left: 15px; margin-top: 0px;">
 							<li>2nd - 3rd May, 2015</li>
 						</ul>
 					</p>
-					<br />
 
 					<h3>Donate</h3>
 					<p>Wombat's Wish cannot operate without your support. You can <a href="/donate">donate here.</a></p>
