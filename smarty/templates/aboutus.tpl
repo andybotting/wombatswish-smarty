@@ -16,9 +16,9 @@
 
             <h4>Wombat's Wish committee:</h4>
 				<ul>
-					<li>Chairperson: Jill Crookes</li>
+					<li>Chairperson: Claire Yeatman</li>
 					<li>Secretary: Julie Parkin</li>
-					<li>Treasurer: Peter Tran</li>
+					<li>Treasurer: Simon Antony</li>
 				</ul>
 
             <h4>Contact Us:</h4>

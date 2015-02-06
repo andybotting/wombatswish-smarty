@@ -16,18 +16,17 @@
 				<div id="rightheight">
 
 					<h3>Important Dates</h3>
-					<p>Next Camp: 
-						<ul style="margin-left: 15px; margin-top: 0px;"> 
-							<li>2nd - 3rd May, 2015</li>
-						</ul>
-					</p>
 					<p>Family Fun Day:
-						<ul style="margin-left: 15px; margin-top: 0px;"> 
-							<li><span style="color: red;">Postponed</span> until Feb 2015</li>
+						<ul style="margin-left: 15px; margin-top: 0px;">
+							<li>Sunday 22nd Feb, 2015</li>
 						</ul>
     					See the <a href="{$base_url}/events">events</a> page for more details.
 					</p>
-
+					<p>Next Camp:
+						<ul style="margin-left: 15px; margin-top: 0px;">
+							<li>2nd - 3rd May, 2015</li>
+						</ul>
+					</p>
 					<br />
 
 					<h3>Donate</h3>
@@ -40,5 +39,5 @@
 
 				</div>
 			</div> <!-- rightcolumn -->
-{/capture} 
+{/capture}
 {include file="template.tpl"}
