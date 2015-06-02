@@ -16,16 +16,9 @@
 				<div id="rightheight">
 
 					<h3>Important Dates</h3>
-					<p>Family Fun Day:
-						<ul style="margin-left: 15px; margin-top: 0px;">
-							<li>Sun 22nd Feb, 2015</li>
-						</ul>
-    					See the <a href="{$base_url}/events">events</a> page for more details.
-					</p>
-					<br />
 					<p>Next Camp:
 						<ul style="margin-left: 15px; margin-top: 0px;">
-							<li>2nd - 3rd May, 2015</li>
+							<li>7th - 8th Nov, 2015</li>
 						</ul>
 					</p>
 
