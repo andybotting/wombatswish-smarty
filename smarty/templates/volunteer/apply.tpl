@@ -1,4 +1,4 @@
-{capture name="title"}Wombat's Wish Volunteer Application Form{/capture}
+{capture name="title"}Volunteer Application Form{/capture}
 
 {capture name="head"}<script src="{$base_url}/js/validate.js" type="text/javascript" language="JavaScript"></script>{/capture}
 
