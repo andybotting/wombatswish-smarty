@@ -14,27 +14,7 @@
 
 		<p>FORMAT: Short story, poem, movie script, animation, photography, digital art.</p>
 
-		<p>Entries close 19th September 2014</p>
-
-		<p><b>Please submit your entries to:</b><br />
-            Wombat's Wish Writing Competition<br />
-            PO BOX 2045<br />
-            GEELONG, 3220<br />
-			or email: <a href="mailto:jill@wombatswish.org.au">jill@wombatswish.org.au</a></p>
-
-
-		<p><b><i>We humbly invite you to support our event, by donating some prizes which can be used for our winning entries. </i></b></p>
-
-		<p>If you would like to donate we would love to hear from you. Any donations, large or small, would be greatly appreciated!</p>
-
-		<p>We thank you in anticipation, and look forward to the opportunity of working with you.</p>
-
-		<p><b>Please contact us:</b></p>
-		
-		<p>
-			Email: <a href="mailto:jill@wombatswish.org.au">jill@wombatswish.org.au</a><br />
-			Phone: 0412 186 542
-		</p>
+		<p>Entries have now closed.</p>
 
 	</div> <!-- fullcolumn -->
 
