@@ -37,21 +37,21 @@
 						<tr>
 							<td><label for="Family_Postcode">Postcode:</label></td>
 							<td>
-								<input name="Family_Postcode" size="40" maxlength="225" value="" type="text" class="required" />
+								<input name="Family_Postcode" size="10" maxlength="4" value="" type="text" class="required" />
 								<span class="red">*</span>
 							</td>
 						</tr>
 						<tr>
 							<td><label for="Home_Telephone">Telephone (H):</label></td>
 							<td>
-								<input name="Home_Telephone" size="20" maxlength="225" value="" type="text" class="required" />
+								<input name="Home_Telephone" size="20" maxlength="225" value="" type="text" />
 								<span class="red">*</span>
 							</td>
 						</tr>
 						<tr>
 							<td><label for="Mobile_Telephone">Telephone (M):</label></td>
 							<td>
-								<input name="Mobile_Telephone" size="20" maxlength="225" value="" type="text" class="required" />
+								<input name="Mobile_Telephone" size="20" maxlength="225" value="" type="text" />
 								<span class="red">*</span>
 							</td>
 						</tr>
