@@ -45,14 +45,12 @@
 							<td><label for="Home_Telephone">Telephone (H):</label></td>
 							<td>
 								<input name="Home_Telephone" size="20" maxlength="225" value="" type="text" />
-								<span class="red">*</span>
 							</td>
 						</tr>
 						<tr>
 							<td><label for="Mobile_Telephone">Telephone (M):</label></td>
 							<td>
 								<input name="Mobile_Telephone" size="20" maxlength="225" value="" type="text" />
-								<span class="red">*</span>
 							</td>
 						</tr>
 						<tr>
