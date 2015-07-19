@@ -72,12 +72,12 @@
 				<div class="secBody">
 					<table>
 						<tr>
-							<td>Child Name</td>
-							<td>Date of Birth</td>
-							<td>Gender</td>
-							<td>School</td>
-							<td>Year</td>
-							<td>Address (if different)</td>
+							<td><label for="First_Childs_Name">Child Name</label></td>
+							<td><label for="First_Childs_DOB">Date of Birth</label></td>
+							<td><label for="First_Childs_Gender">Gender</label></td>
+							<td><label for="First_Childs_School">School</label></td>
+							<td><label for="First_Childs_Year">Year</label></td>
+							<td><label for="First_Childs_Address">Address (if different)</label></td>
 						</tr>
 						<tr>
 							<td><input name="First_Childs_Name" size="14" maxlength="20" value="" type="text" class="required" /></td>
