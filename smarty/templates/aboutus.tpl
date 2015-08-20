@@ -25,7 +25,7 @@
 				<div style="float:left;">
 					<div class="contact" style="margin:10px;">
 						<p>
-							Phone: 0403 055217<br/>
+							Phone: 0499 966 228<br/>
 							Email: {mailto address="info@wombatswish.org.au" encode="hex"}<br/>
 						</p>
 					</div>
