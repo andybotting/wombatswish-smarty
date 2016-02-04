@@ -1,7 +1,7 @@
 <?php
 
 	// put full path to Smarty.class.php
-	require('/usr/share/php/smarty/SmartyBC.class.php');
+	require('/usr/share/php/smarty3/SmartyBC.class.php');
 	$smarty = new SmartyBC();
 
 	$base_path = '/var/www/wombatswish';
